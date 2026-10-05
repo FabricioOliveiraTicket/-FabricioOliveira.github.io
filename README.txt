@@ -1,2 +1,3 @@
-NOVA v3 - frontend estatico conectado ao Supabase.
-Upload index.html, carrinho.html e 404.html no GitHub Pages.
+NOVA v4 — versão visual refinada.
+Arquivos: index.html, carrinho.html e 404.html.
+Catálogo conectado ao Supabase.
